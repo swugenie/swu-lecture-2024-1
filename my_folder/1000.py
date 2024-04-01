@@ -1,2 +1,3 @@
-11382
-1330
+A, B = input().split()	
+
+print(int(A)+int(B))
